@@ -1,0 +1,19 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "testingggg",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducgacon222/Lab3.git"
+  },
+  "author": "ducgacon222",
+  "license": "DOC",
+  "bugs": {
+    "url": "https://github.com/ducgacon222/Lab3/issues"
+  },
+  "homepage": "https://github.com/ducgacon222/Lab3#readme"
+}
